@@ -1,16 +1,27 @@
-# agenda_contatos
+# Agenda de Contatos - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter application.
+https://user-images.githubusercontent.com/70405308/221957377-2faa10a3-481b-4fdd-867f-05e02865e480.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Essa Agenda de contatos foi feita em Dart + Flutter. A agenda traz a possibilidade de salvar contatos com suas informações básicas e foto (por meio do image picker) para identificação. Todos os dados são salvos no banco interno (através do SQFlite). É possivel também fazer ligações diretas para o contato por meio do url launcher, que cria um link pelo número do telefone. Este projeto foi de um curso da Udemy do Daniel Cioffi.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Banco de Dados interno com SQFlite
+* Captura de fotos com Image Picker
+* Ligação para o contato com URL Laucher
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: SQFlite
+* LIB: Image Picker
+* LIB: URL Launcher
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📌 Links
+* [url_launcher](https://pub.dev/packages/url_launcher)
+* [image_picker](https://pub.dev/packages/image_picker)
+* [sqflite](https://pub.dev/packages/sqflite)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
